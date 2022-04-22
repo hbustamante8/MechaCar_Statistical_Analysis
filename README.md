@@ -23,4 +23,4 @@ Lot Summary
 
 * For the total summmary, the variance is high overall and the standard deviation is very far from the mean. This conveys that the design specification for all the manufacturing lots in total is not being met. 
 
-* The summary statistics for each individual manufacutring highlights that Lot3  is where a majority of the high variance and standard deviation are coming from for the total. Lot 1 is meeting the the design specification the best out of the 3 lots while Lot2 is second place. There must be improvements made for the Lot2 and Lot3 for the vehicles to mimic Lot1 production design for there to be conistent manufacturing in regards to suspension coils.
+* The summary statistics for each individual manufacutring highlights that Lot3  is where a majority of the high variance and standard deviation are coming from for the total. Lot 1 is meeting the the design specification the best out of the three lots while Lot2 is second place. There must be improvements made in Lot2 and Lot3 for the vehicles to mimic Lot1 production design for there to be conistent manufacturing in regards to suspension coils.
