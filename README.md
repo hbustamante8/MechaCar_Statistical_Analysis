@@ -46,4 +46,20 @@ The T-test for the suspension coils for Lot 2 reveals that there is no statistic
 
 Finally, the T-test for the suspension coils for Lot 3 indicates that there is a statistical difference between the sample mean the population mean. The p-value is "0.04168%" which is low enough to make claim that there is enough evidence to reject the null hypothesis based on the T-Test.
 
+## Study Design: MechaCar vs Competition
+To be comptetive in the market, MechaCar must compare the performance of the vehicles they produce to their competitors. Although there are many factors that go into the performance of a car, a metric will be chosen along with a plan given for statistical tests to take place and make the comparison. 
+
+Metric(s) that will be tested:
+* MPG on highway areas
+* safety rating
+
+null hypothesis: There is no difference in mpg on highways between MechaCars and other leading manufactureres
+
+alternative hypothesis: There is a differecne betweeen mpg on highways between MechCars and other leading manufacturers.
+
+Statatistical Tests that would be used to test the hypothesis and why? 
+* Two - Sample Test would be used for analysis. There reason being to compare the two population means are equal. The samples from both two different datasets would be random and nornally distributed. 
+
+What data is needed to run the statistical test?
+* Two datasets would be needed at a time. One of the datasets will always be the MechaCars mpg on highways data. The other data set would contain the same exact information but would be from a competitor that targets similar customers that MechaCars does.
 
