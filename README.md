@@ -30,7 +30,7 @@ Lot Summary
 
 ![image](https://user-images.githubusercontent.com/96553992/164909683-a082c267-ff25-416a-bd62-88802b7b17b1.png)
 
-If we the set the significance level to be the common 0.05%, the t-tests comparing all manufacturing lots against mean PSI of the population is not significant enough. The p-value is 0.06020% which is not low enough to reject the null hypothesis.
+If we the set the significance level to be the common 0.05%, the t-tests comparing all manufacturing lots against mean PSI of the population is not significant enough. The p-value is "0.06020%" which is not low enough to reject the null hypothesis.
 
 
 ![image](https://user-images.githubusercontent.com/96553992/164909965-d3ff9ae5-fdb3-49e4-ab44-7e67ccc5e0a5.png)
