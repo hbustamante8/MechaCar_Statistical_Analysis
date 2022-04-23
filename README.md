@@ -21,6 +21,6 @@ Lot Summary
 
 ### Analysis of summary statistics on the Pounds per square inch(PSI)
 
-* For the total summmary, the variance is high overall and the standard deviation is very far from the mean. This conveys that the design specification for all the manufacturing lots in total is not being met. 
+* For the total summmary, the variance is under the 100 PSI and meets specification requirement.
 
-* The summary statistics for each individual manufacutring highlights that Lot3  is where a majority of the high variance and standard deviation are coming from for the total. Lot 1 is meeting the the design specification the best out of the three lots while Lot2 is second place. There must be improvements made in Lot2 and Lot3 for the vehicles to mimic Lot1 production design for there to be conistent manufacturing in regards to suspension coils.Currently, the design specifcation is not being met for Lot2 and Lot3, while Lot1 could poteintally currently be meeting the 
+* The summary statistics for each individual manufacutring highlights that Lot3  is where a majority of the high variance and standard deviation are coming from for the total. Lot1 and Lot2 are meeting the specification requirement wuth similarly low standard deviaton and vasiance. Lot3 has around 170 variance and higher standard deviation than Lot1 and Lot2 combined. Therefore, Lot3 does not meet there requirements and showed be looked into further to get the PSI closer to the other lots.
