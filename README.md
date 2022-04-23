@@ -50,7 +50,7 @@ Finally, the T-test for the suspension coils for Lot 3 indicates that there is a
 ## Study Design: MechaCar vs Competition
 To be competitive in the market, MechaCar must compare the performance of the vehicles they produce to their competitors. Although there are many factors that go into the performance of a car, a metric will be chosen along with a plan given for statistical tests to take place and make the comparison. 
 
-Metric(s) that will be tested:
+Metric that will be tested:
 * There are many metrics that could be selected for performance but for this analysis, it will focus on one. The metric that will be tests is MPG on highway areas.
 
 Null hypothesis: There is no difference in mpg on highways between MechaCar’s and other leading manufacturers
