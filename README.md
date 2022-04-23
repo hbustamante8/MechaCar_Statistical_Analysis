@@ -21,7 +21,7 @@ Lot Summary
 
 ### Analysis of summary statistics on the Pounds per square inch(PSI)
 
-* For the total summary, the variance is under the 100 PSI and meets specification requirement.
+* For the total summary, the variance is under the 100 PSI and meets the specification requirement.
 
 * The summary statistics for each individual manufacturing highlights that Lot3 is where a majority of the high variance and standard deviation are coming from for the total. Lot1 and Lot2 are meeting the specification requirement with similarly low standard deviation and variance. Lot3 has around 170 variance and higher standard deviation than Lot1 and Lot2 combined. Therefore, Lot3 does not meet the requirements and showed be looked into further to get the PSI closer to the other lots.
 
