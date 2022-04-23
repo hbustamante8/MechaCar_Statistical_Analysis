@@ -42,6 +42,8 @@ The T-test for the suspension coils for Lot 1 reveals that there is no statistic
 The T-test for the suspension coils for Lot 2 reveals that there is no statistical difference between the sample mean the population mean. The p-value is "0.6072%" which is not low enough to reject the null hypothesis. However, it is worth mentioning that the p-value is very similar to the overall p-value of all the lots together.
 
 
+![image](https://user-images.githubusercontent.com/96553992/164910411-f673976e-4ab1-406c-98ec-1386f4e42be4.png)
 
+Finally, the T-test for the suspension coils for Lot 3 indicates that there is a statistical difference between the sample mean the population mean. The p-value is "0.04168%" which is low enough to make claim that there is enough evidence to reject the null hypothesis based on the T-Test.
 
 
