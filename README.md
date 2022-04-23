@@ -58,7 +58,7 @@ Null hypothesis: There is no difference in mpg on highways between MechaCar’s 
 Alternative hypothesis: There is a difference between mpg on highways between MechCar’s and other leading manufacturers.
 
 Statistical Tests that would be used to test the hypothesis and why? 
-* Two - Sample Test would be used for analysis. There reason being to compare the two populations means are equal. The samples from both two different datasets would be random and normally distributed. 
+* Two - Sample T-Test would be used for analysis. There reason being to compare the two populations means are equal. The samples from both two different datasets would be random and normally distributed. 
 
 What data is needed to run the statistical test?
 * Two datasets would be needed at a time. One of the datasets will always be the MechaCar’s mpg on highways data. The other data set would contain the same exact information but would be from a competitor that targets similar customers that MechaCar’s does.
